@@ -1,0 +1,5 @@
+rquirements
+
+pycaw==20251023
+comtypes==1.4.13
+pynput==1.8.1
